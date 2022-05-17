@@ -1,0 +1,25 @@
+a{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.activesec{       
+    color: #E92524;    
+}
+
+.icon{
+    margin-left: 25.4px;
+}
+
+.img{
+    margin-right: 157px;
+    margin-left: 78px;
+}
+
+.nav{
+    background-color: #FFFFFF;
+}
